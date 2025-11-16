@@ -11,8 +11,3 @@ Security-focused developer specializing in backend systems and web security. Cur
 - 💬 Telegram: [@EchoWane](https://t.me/EchoWane)
 - 🎮 Discord: EchoWane
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EchoWane&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</div>
